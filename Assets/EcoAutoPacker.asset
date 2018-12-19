@@ -1,0 +1,144 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1ec061b5ce3f6849bc6ee6497489ccb, type: 3}
+  m_Name: EcoAutoPacker
+  m_EditorClassIdentifier: 
+  includeFolders:
+  - 380ef62b99b5d4869a7dfeb75616de6d
+  - 30ec11fce918b4b64aaa818509da8576
+  excludeFolders: []
+  includeFiles: []
+  excludeFiles:
+  - 6db9713b44aa743178a97d1b0e5c23da
+  youTubeLists: []
+  webLinkList: []
+  modulesList:
+  - Cinemachine
+  ecoFilterList: []
+  foldersToInclude: []
+  filesToInclude: []
+  foldersToExclude: []
+  filesToExclude: []
+  author: Jean Fabre
+  type: Component
+  version: 1.2.3
+  keyWords: Cinemachine Camera Touch
+  packageName: Cinemachine
+  targetDirectory: /Users/jeanfabre/Documents/Work/Unity/PlayMaker/Ecosystem/Repositories/PlayMakerCustomActions_U2018/PlayMaker/Ecosystem/Custom
+    Packages/Cinemachine
+  targetRepository: 7
+  categoryString: Cinemachine
+  targetPackageTextFile: /Users/jeanfabre/Documents/Work/Unity/PlayMaker/Ecosystem/Repositories/PlayMakerCustomActions_U2018/PlayMaker/Ecosystem/Custom
+    Packages/Cinemachine/Cinemachine.package.txt
+  packagetypeselection:
+  - ActionPackage
+  - SamplePackage
+  - TemplatePackage
+  packagetypeselected: 0
+  UminVselection:
+  - ActionPackage
+  - SamplePackage
+  - TemplatePackage
+  UminVselected: 0
+  PMminVselection:
+  - ActionPackage
+  - SamplePackage
+  - TemplatePackage
+  PMminVselected: 0
+  Pingtype:
+  - None
+  - Asset Path
+  - Menu
+  Pingtypeselected: 1
+  uMinVersionSelected: 12
+  pmMinVersionSelected: 7
+  categoryList:
+  - API
+  - Analytics
+  - AnimateVariables
+  - Animation
+  - Android
+  - Animator
+  - Application
+  - Array
+  - AssetBundle
+  - Audio
+  - AudioMixer
+  - BlendShapes
+  - Camera
+  - Color
+  - Convert
+  - CrossPlatformInput
+  - Debug
+  - Device
+  - Editor
+  - Effects
+  - Encryption
+  - Files
+  - FOV
+  - GarbageCollection
+  - GameObject
+  - GUI
+  - GuiElement
+  - GUILayout
+  - Input
+  - JSON
+  - Level
+  - Lights
+  - Logic
+  - Material
+  - Math
+  - Mesh
+  - Microphone
+  - MobileGameController
+  - Movement
+  - NavMeshAgent
+  - NoiseModule
+  - Particles
+  - Physics
+  - Physics2D
+  - PlayerPrefs
+  - QualitySettings
+  - Quaternion
+  - Rect
+  - RectTransform
+  - RenderSettings
+  - Renderer
+  - Resources
+  - Screen
+  - ScriptControl
+  - ShapeModule
+  - Social
+  - Sprite
+  - StateMachine
+  - String
+  - Texture
+  - Time
+  - Transform
+  - Trigonometry
+  - UnityAds
+  - UnityObject
+  - Vector2
+  - Vector3
+  - VideoClip
+  - VideoPlayer
+  - VR
+  - Web
+  - WebCam
+  - uGui
+  categorySelected: 0
+  assetPath: {fileID: 4900000, guid: bd41c4e60aeaf4a9093b06b49ab6a34b, type: 3}
+  pingMenu: {fileID: 0}
+  fileExistsCheck: 1
+  expandedList: 0
+  showList: 1
+  showSetFoldersAndFiles: 1
+  foldout: 1

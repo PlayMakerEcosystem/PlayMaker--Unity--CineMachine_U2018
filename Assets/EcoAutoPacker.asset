@@ -16,8 +16,7 @@ MonoBehaviour:
   - 30ec11fce918b4b64aaa818509da8576
   excludeFolders: []
   includeFiles: []
-  excludeFiles:
-  - 6db9713b44aa743178a97d1b0e5c23da
+  excludeFiles: []
   youTubeLists: []
   webLinkList: []
   modulesList:
@@ -29,7 +28,7 @@ MonoBehaviour:
   filesToExclude: []
   author: Jean Fabre
   type: Component
-  version: 1.2.3
+  version: 1.2.5
   keyWords: Cinemachine Camera Touch
   packageName: Cinemachine
   targetDirectory: /Users/jeanfabre/Documents/Work/Unity/PlayMaker/Ecosystem/Repositories/PlayMakerCustomActions_U2018/PlayMaker/Ecosystem/Custom

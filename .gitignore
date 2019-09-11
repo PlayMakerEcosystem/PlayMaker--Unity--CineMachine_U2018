@@ -15,6 +15,7 @@
 /*.booproj
 
 .vs/
+.idea/
 
 #Unity3D Generated File On Crash Reports
 sysinfo.txt
@@ -45,3 +46,7 @@ Cinemachine.meta
 
 
 \.vscode/
+
+Assets/Plugins/Editor/JetBrains/
+
+Assets/Plugins/Editor/JetBrains.meta
